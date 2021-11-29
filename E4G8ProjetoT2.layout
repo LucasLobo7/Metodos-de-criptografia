@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="11" Column="18"/>
+		</File>
+		<File Name="CifraDeCesar.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="polialfabetica.cpp" Top="No" Tabpos="3" TopLine="26">
+			<Cursor Line="39" Column="1"/>
+		</File>
+		<File Name="CifraDeCesar.cpp" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="8" Column="1"/>
+		</File>
+		<File Name="criptografia.cpp" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="19" Column="23"/>
+		</File>
+		<File Name="enigma.cpp" Top="Yes" Tabpos="6" TopLine="279">
+			<Cursor Line="1" Column="1"/>
+		</File>
+	</Files>
+</Layout>
